@@ -1,6 +1,6 @@
-Name:Nikita Maurya                                                                                                                    |
-Roll No:35|
-Batch:B|
+Name:  Nikita Maurya                                                                                                                    |
+Roll No: 35|
+Batch:  B|
 ## DSA experiment list A  : - 
 
 |Program_Id| Program details|Your File nameHyperlink to the .c file on github|
