@@ -88,7 +88,7 @@
 ||12. CONCATENTE||
 ||13. SPLIT||
 ||14. REVERSE||
-|5.|Write a menu driven program to implement STACK ADT using array and perform the|https://github.com/nikitam614/DSA_assignments/blob/main/stack_using_array.c|
+|5.|Write a menu driven program to implement STACK ADT using array and perform the|https://github.com/nikitam614/DSA_assignments/blob/main/STACK.c|
 ||following operations||
 ||1. PUSH||
 ||2. POP||
