@@ -110,7 +110,7 @@
 ||1. ENQUEUE||
 ||2. DEQUEUE||
 ||3. DISPLAY||
-|13.|Write a menu driven program to implement QUEUE ADT using linkedlist and perform|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/queueusinglinkedlist.c|
+|13.|Write a menu driven program to implement QUEUE ADT using linkedlist and https://github.com/nikitam614/DSA_assignments/blob/main/queue_linkedlist.c|
 ||the following operation||
 ||1. ENQUEUE||
 ||2. DEQUEUE||
