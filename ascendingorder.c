@@ -1,32 +1,40 @@
-#include <stdio.h>
-struct student {
-    char firstName[50];
-    int roll;
-    float marks;
-} s[5];
+#include<stdio.h>
+struct student{
+  char name[30];
+  int roll;
+  float percentage;
+};
 
-int main() {
-    int i;
-    printf("Enter information of students:\n");
+int main()
+{
+    struct student s[5], temp;
+    int i,j;
+    printf(" STUDENTS DETAILS \n");
+ for(i=0;i<5;i++)
+ {
+    printf("Enter name, roll and percentage of student:\t");
+    scanf("%s%d%f",s[i].name, &s[i].roll, &s[i].percentage);
+ }
 
-    // storing information
-    for (i = 0; i < 5; ++i) {
-        s[i].roll = i + 1;
-        printf("\nFor roll number%d,\n", s[i].roll);
-        printf("Enter first name: ");
-        scanf("%s", s[i].firstName);
-        printf("Enter marks: ");
-        scanf("%f", &s[i].marks);
-    }
-    printf("Displaying Information:\n\n");
-
-    // displaying information
-    for (i = 0; i < 5; ++i) {
-        printf("\nRoll number: %d\n", i + 1);
-        printf("First name: ");
-        puts(s[i].firstName);
-        printf("Marks: %.1f", s[i].marks);
-        printf("\n");
-    }
-    return 0;
+ for(i=0;i<4;i++)
+ {
+    for(j=i+1;j<5;j++)
+  {
+        if(s[i].roll > s[j].roll)
+        {
+            temp = s[i];
+            s[i] = s[j];
+            s[j] = temp;
+        }
+  }
 }
+    printf("Sorted records are:\n");
+    for(i=0;i<5;i++)
+ {
+        printf("Name: %s\n", s[i].name);
+        printf("Roll: %d\n", s[i].roll);
+        printf("Percentage: %0.2f\n\n", s[i].percentage);
+ }
+ return 0;
+}
+
