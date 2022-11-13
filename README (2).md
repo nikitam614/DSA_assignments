@@ -25,7 +25,7 @@
 ## DSA program list B :-
 |Program_Id| Program details|Your File nameHyperlink to the .c file on github|
 |----------|----------------|-------------------------------------------------|
-|1.|Write a menu driven program to implement list ADT using SINGLE LINKEDLIST and|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/stackusinglinkedlist.c|
+|1.|Write a menu driven program to implement list ADT using SINGLE LINKEDLIST and|https://github.com/nikitam614/DSA_assignments/blob/main/linkedlist1.c|
 ||perform the following operations||
 ||1. CREATE||
 ||2. INSERT AT BEGINNING||
@@ -88,13 +88,13 @@
 ||12. CONCATENTE||
 ||13. SPLIT||
 ||14. REVERSE||
-|5.|Write a menu driven program to implement STACK ADT using array and perform the|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/dsa%20program1.c|
+|5.|Write a menu driven program to implement STACK ADT using array and perform the|https://github.com/nikitam614/DSA_assignments/blob/main/stack_using_array.c|
 ||following operations||
 ||1. PUSH||
 ||2. POP||
 ||3. DISPLAY||
 ||4. PEEK||
-|6.|Write a menu driven program to implement STACK ADT using linkedlist and perform|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/stackusinglinkedlist.c|
+|6.|Write a menu driven program to implement STACK ADT using linkedlist and perform|https://github.com/nikitam614/DSA_assignments/blob/main/stackusinglinkedlist.c|
 ||the following operations||
 ||1. PUSH||
 ||2. POP||
