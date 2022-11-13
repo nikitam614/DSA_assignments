@@ -19,7 +19,7 @@
 ||set to 0 and the minute is incremented by 1. Then, if the result is 60 minutes, the minute||
 ||member is set to 0 and the hour member is incremented by 1. Finally when the hour||
 ||becomes 24, it is set to zero.)||
-|8.|Write a function that compares two arrays and returns 1 if they are identical and 0 otherwise.|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/dsaprogram3.c|
+|8.|Write a function that compares two arrays and returns 1 if they are identical and 0 otherwise.|https://github.com/nikitam614/DSA_assignments/blob/main/arr_identical.c|
 
 
 ## DSA program list B :-
@@ -100,12 +100,12 @@
 ||2. POP||
 ||3. DISPLAY||
 ||4. PEEK||
-|7.|Write a program to REVERSE a given string using a Stack|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/reversestack.c|
-|8.|Write a program to check if a given number is a PALLINDROME using a stack|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/palindrome.c|
-|9.|Write a program to implement PARENTHESES CHECKER using a stack ||
-|10.|Write a program for conversion of INFIX to POSTFIX expression.|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/infixpostfix.c|
-|11.|Write a program to evaluate postfix expressions by making use of Stack|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/infix.c|
-|12.|Write a menu driven program to implement QUEUE ADT using array and perform the|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/queue.c|
+|7.|Write a program to REVERSE a given string using a Stack|https://github.com/nikitam614/DSA_assignments/blob/main/reversestring.c|
+|8.|Write a program to check if a given number is a PALLINDROME using a stack|https://github.com/nikitam614/DSA_assignments/blob/main/palindromeusingstack.c|
+|9.|Write a program to implement PARENTHESES CHECKER using a stack |https://github.com/nikitam614/DSA_assignments/blob/main/parenthesischecker.c|
+|10.|Write a program for conversion of INFIX to POSTFIX expression.|https://github.com/nikitam614/DSA_assignments/blob/main/infixtopostfix1.c|
+|11.|Write a program to evaluate postfix expressions by making use of Stack|https://github.com/nikitam614/DSA_assignments/blob/main/postfix.c|
+|12.|Write a menu driven program to implement QUEUE ADT using array and perform the|https://github.com/nikitam614/DSA_assignments/blob/main/queue.c|
 ||following operation||
 ||1. ENQUEUE||
 ||2. DEQUEUE||
@@ -116,13 +116,13 @@
 ||2. DEQUEUE||
 ||3. DISPLAY||
 ||4. SEARCH||
-|14.|Write a menu driven program to implement CIRCULAR QUEUE ADT using array and|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/queueusinglinkedlist.c|
+|14.|Write a menu driven program to implement CIRCULAR QUEUE ADT using array and|https://github.com/nikitam614/DSA_assignments/blob/main/circularqueue.c|
 ||perform the following operation||
 ||1. ENQUEUE||
 ||2. DEQUEUE||
 ||3. DISPLAY||
 ||4. COUNT||
-|15.|Write a menu driven program to implement following operations in a binary search tree|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/bst.c|
+|15.|Write a menu driven program to implement following operations in a binary search tree|https://github.com/nikitam614/DSA_assignments/blob/main/bst.c|
 ||(BST).||
 ||1. Insertion of node||
 ||2. Deletion of node||
@@ -131,14 +131,14 @@
 ||5. Postorder Traversal||
 ||6. Inorder Traversal||
 ||7. Search node in the tree||
-|16.|Write a program to implement traversal of a directed graph through BFS|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/bfs.c|
-|17.||Write a program to implement traversal of a directed graph through DFS|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/dfs.c|
-|18.|Write a program to implement Binary Search|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/binarysearch.c|
-|19.|Write a program to implement Bubble sort|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/bubsort.c|
-|20.|Write a program to implement Selection sort|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/selectsort.c|
-|21.|Write a program to implement Insertion sort|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/insertsort.c|
-|22.|Write a program to implement Quick sort|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/quicksort.c|
-|23.|Write a program to implement Merge sort|https://github.com/adityagothiwarekar/DSA_ASSIGNMENTS/blob/main/mergesort.c|
+|16.|Write a program to implement traversal of a directed graph through BFS|https://github.com/nikitam614/DSA_assignments/blob/main/bfs.c|
+|17.||Write a program to implement traversal of a directed graph through DFS|https://github.com/nikitam614/DSA_assignments/blob/main/dfs.c|
+|18.|Write a program to implement Binary Search|https://github.com/nikitam614/DSA_assignments/blob/main/binarysearch.c|
+|19.|Write a program to implement Bubble sort|https://github.com/nikitam614/DSA_assignments/blob/main/bubblesort.c|
+|20.|Write a program to implement Selection sort|https://github.com/nikitam614/DSA_assignments/blob/main/selectionsort.c|
+|21.|Write a program to implement Insertion sort|https://github.com/nikitam614/DSA_assignments/blob/main/insertsort.c|
+|22.|Write a program to implement Quick sort|https://github.com/nikitam614/DSA_assignments/blob/main/quicksort.c|
+|23.|Write a program to implement Merge sort|https://github.com/nikitam614/DSA_assignments/blob/main/mergesort.c|
 
 
 
